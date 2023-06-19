@@ -1,4 +1,4 @@
-target/
+# target/
 !.mvn/com.alibaba.grow.common.wrapper/maven-com.alibaba.grow.common.wrapper.jar
 rebel.xml
 rebel-remote.xml
@@ -29,5 +29,5 @@ nbdist/
 ## 前端打包生成的代码 不用提交到github,
 # /ali-dbhub-server-start/src/main/resources/static/front/
 
-
-!ali-dbhub-server/ali-dbhub-server-start/target/ali-dbhub-server-start.jar
+# !target/
+# !target/ali-dbhub-server-start.jar
