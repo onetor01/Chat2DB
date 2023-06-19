@@ -29,5 +29,5 @@ nbdist/
 ## 前端打包生成的代码 不用提交到github,
 # /ali-dbhub-server-start/src/main/resources/static/front/
 
-!target/
+
 !ali-dbhub-server/ali-dbhub-server-start/target/ali-dbhub-server-start.jar
