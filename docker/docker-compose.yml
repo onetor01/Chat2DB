@@ -1,7 +1,7 @@
 version: '3'
 services:
   chat2db:
-    image: chat2db/chat2db:latest
-    container_name: chat2db-latest
+    image: chat2db/chat2db:v1.0.111-dev
+    container_name: chat2db-v1.0.111-dev
     ports:
       - "10824:10824"
